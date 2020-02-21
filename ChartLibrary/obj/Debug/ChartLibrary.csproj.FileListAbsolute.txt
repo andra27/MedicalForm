@@ -1,0 +1,16 @@
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\bin\Debug\ChartLibrary.dll
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\bin\Debug\ChartLibrary.pdb
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.BarChartControl.resources
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.dll
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.pdb
+C:\Users\stud\source\repos\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.csprojAssemblyReference.cache
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\bin\Debug\ChartLibrary.dll
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\bin\Debug\ChartLibrary.pdb
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.csprojAssemblyReference.cache
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.BarChartControl.resources
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.csproj.GenerateResource.cache
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.dll
+C:\Users\Andra\Downloads\11 (1)\proiectPaw\ChartLibrary\obj\Debug\ChartLibrary.pdb
